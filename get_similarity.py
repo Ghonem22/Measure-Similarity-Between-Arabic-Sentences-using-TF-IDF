@@ -13,7 +13,6 @@ def get_similarity(df, vectors, keyword):
     cosine_sim = cosine_similarity(traninput,vectors)
 
     df[keyword] = pd.DataFrame(cosine_sim).T[0]
-    print(preprocess_text(keyword), keyword)
     return df
 
 # Read Data
