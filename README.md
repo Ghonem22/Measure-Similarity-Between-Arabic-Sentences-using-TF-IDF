@@ -23,3 +23,11 @@
         python get_similarity.py
    
 8. the code wil generate csv file with new columns (new column for each keyword)
+
+---
+
+## Data
+
+You can find the data used for testing here "1.text":
+
+https://drive.google.com/drive/u/0/folders/1KWS7me9LYnpwfYywF5bn1dzt-omThrUP
